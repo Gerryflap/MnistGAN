@@ -10,4 +10,5 @@ Basically a "hello world" to find out how to use Flux.jl to do AI stuff in Julia
 > **_NOTE:_**  The first time it will have to precompile and download the dataset, which will take some time and require user input
 
 ![Image here](example.png)
+
 _Example output image after 30 epochs on default settings_
